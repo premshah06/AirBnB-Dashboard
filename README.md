@@ -22,5 +22,3 @@ Understanding how property prices fluctuate based on the number of bedrooms can 
 The dataset for the project can be accessed from the below link:
 https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
 
-Moreover a follow along youtube video can be found from the below link:
-https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=6
